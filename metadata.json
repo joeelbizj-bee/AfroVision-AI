@@ -1,0 +1,7 @@
+{
+  "name": "Afro-Modern Vision",
+  "description": "An AI-powered fashion transformation tool that uses Gemini to reimagine your portrait in sophisticated Afro-modern styles with cultural accents like the cowboy kofia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
